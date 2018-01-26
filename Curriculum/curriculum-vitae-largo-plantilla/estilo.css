@@ -1,0 +1,41 @@
+html {
+    font-family: sans-serif;
+    background-color: hsl(0, 0%, 93%);
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2 {
+    color: red;
+    background-color: hsl(0, 0%, 53%);
+    text-transform: capitalize;
+}
+
+h3 {
+    color: hsl(300, 100%, 27%);
+    background-color: hsl(0, 0%, 67%);
+    font-size: 13   0%;
+}
+
+p {
+    background-color: hsl(0, 0%, 80%);
+    line-height: 150%;
+}
+
+address {
+    text-align: right;
+    font-style: normal;
+    background-color: white;
+}
+
+strong {
+    color: blue;
+    text-decoration: underline;
+}
+
+time {
+    color: green;
+}

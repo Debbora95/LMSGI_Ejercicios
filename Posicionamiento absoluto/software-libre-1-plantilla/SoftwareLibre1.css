@@ -1,0 +1,52 @@
+html {
+    font-family: sans-serif;
+    background-color: hsl(234, 20%, 90%);
+}
+
+h1 {
+    font-size: 400%;
+    color: white;
+    background-color: hsl(235, 20%, 25%);
+    margin-top: -1%;
+    margin-left: -1%;
+    margin-right: -1%;
+    padding-left: 1%;
+}
+
+h2.escritorio {
+    color: white;
+    background-color: hsl(235, 20%, 25%);
+    font-size: 200%;
+    text-align: center;
+    margin-right: 55%;
+    margin-left: 10%;
+    margin-top: -1%;
+}
+
+h2.internet {
+    color: white;
+    background-color: hsl(235, 20%, 25%);
+    font-size: 200%;
+    text-align: center;
+    margin-right: 10%;
+    margin-left: 55%;
+    margin-top: -1%;
+}
+
+
+div {
+    background-color: white;
+    border-radius: 8px;
+    margin:5px;
+    margin-left: 12%;
+    margin-right: 57%;
+}
+
+h3 {
+    color: white;
+    background-color: hsl(125, 61%, 40%);
+}
+
+p {
+
+}

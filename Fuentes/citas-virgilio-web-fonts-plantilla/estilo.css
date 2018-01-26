@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: "just another hand";
+    src: url("just-another-hand.woff2");
+}
+
+@font-face {
+    font-family: "lobster";
+    src: url("lobster.woff2");
+}
+
+@font-face {
+    font-family: "ribeye Marrow";
+    src: url("ribeye-marrow.woff2");
+}
+
+h1 {
+    font-family: "ribeye Marrow", cursive;
+    text-align: center;
+    letter-spacing: 15px;
+    text-transform: uppercase;
+}
+
+p.intro{
+    font-family: sans-serif;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+p.latin {
+    font-family: "lobster", cursive;
+}
+
+p.español {
+    font-family: "just another hand", cursive;
+}

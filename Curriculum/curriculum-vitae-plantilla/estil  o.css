@@ -1,0 +1,45 @@
+html {
+background-color: hsl(200, 16%, 85%);
+font-family: sans-serif;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 250%;
+}
+
+h2 {
+    background-color:hsl(201, 15%, 55%);
+    text-decoration: underline;
+    color:hsl(201, 15%, 30%);
+    font-size: 200%;
+}
+
+h3 {
+    background-color: hsl(200, 15%, 65%);
+    color: hsl(200, 15%, 40%);
+    font-style: italic;
+    font-size: 130%;
+}
+
+address {
+    background-color: white;
+    font-weight: bold;
+    text-align: right;
+}
+
+p {
+    background-color: hsl(199, 15%, 75%);
+}
+
+strong {
+    color:hsl(200, 100%, 30%);
+    font-weight: normal;
+}
+
+em {
+    color: hsl(200, 100%, 40%);
+    font-style: normal;
+    font-weight: bold;
+}

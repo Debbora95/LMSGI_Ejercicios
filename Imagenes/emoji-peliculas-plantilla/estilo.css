@@ -1,0 +1,33 @@
+html {
+    background-color: hsl(35, 100%, 90%);
+}
+
+h1 {
+    color: hsl(35, 100%, 30%);
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+
+p.pregunta {
+    color:hsl(30, 100%, 59%);
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 201%;
+}
+
+summary {
+    font-size: 400%;
+}
+
+span.emoji1 {
+    background-color: hsl(325, 100%, 90%);
+}
+
+span.emoji2 {
+    background-color: white;
+}
+
+p{
+    font-family: sans-serif;
+    font-size: 200%;
+}

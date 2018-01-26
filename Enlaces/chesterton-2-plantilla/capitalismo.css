@@ -1,0 +1,24 @@
+html {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: hsl(14, 20%, 45%);
+    color: white;
+}
+
+p {
+    text-align: justify;
+    font-size: 25px;
+    line-height: 170%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+a {
+    font-size: 30px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+img {
+ float: center;
+}

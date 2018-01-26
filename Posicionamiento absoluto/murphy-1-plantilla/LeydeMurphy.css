@@ -1,0 +1,89 @@
+html {
+    background-color: hsl(0, 0%, 80%);
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 300%;
+    text-align: center;
+    margin-top: 0%;
+}
+
+p {
+    overflow: auto;
+    position: absolute;
+    font-size: 24px;
+}
+p.naranja {
+    text-align: center;
+    background-color: hsl(40, 100%, 75%);
+    border: hsl(40, 40%, 35%) 2px solid;
+    left:10%;
+    right:8%;
+    top: 8%;
+    bottom: 73%;
+    padding-top: 0.5%;
+}
+
+p.verde {
+    text-align: center;
+    background-color: hsl(120, 100%, 75%);
+    border: hsl(120, 40%, 35%) 4px solid;
+    left:32%;
+    right:31%;
+    top: 40%;
+    bottom: 20%;
+    padding-top: 0.6%;
+    z-index: 1;
+}
+
+p.amarillo {
+    background-color: hsl(60, 100%, 75%);
+    border: hsl(60, 64%, 55%) 4px solid;
+    left:5%;
+    right:58%;
+    top:25%;
+    bottom: 40%;
+    padding-top: 0.6%;
+    padding-left: 0.6%;
+
+}
+
+p.azul{
+    background-color: hsl(180, 100%, 90%);
+    border: hsl(180, 25%, 70%) 4px solid;
+    text-align: right;
+    left: 58%;
+    right: 5%;
+    top:25%;
+    bottom: 40%;
+    padding-top: 0.6%;
+    padding-right: 0.6%;
+}
+
+p.rosa {
+    background-color: hsl(300, 100%, 95%);
+    border: hsl(300, 15%, 70%) 4px solid;
+    left:5%;
+    right:58%;
+    top:60%;
+    bottom:5%;
+    padding-top: 0.6%;
+    padding-left: 0.6%;
+}
+
+p.rojo {
+    background-color: hsl(0, 100%, 85%);
+    border: hsl(0, 15%, 42%) 4px solid;
+    text-align: right;
+    left: 58%;
+    right: 5%;
+    top:60%;
+    bottom:5%;
+    padding-top: 0.6%;
+    padding-right: 0.6%;
+}
+
+p:hover {
+    z-index: 2;
+}

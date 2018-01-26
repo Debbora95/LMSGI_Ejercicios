@@ -1,0 +1,30 @@
+@font-face {
+    font-family:"just another hand";
+    src:url("just-another-hand.woff2");
+}
+
+html {
+    background-color: rgb(239, 210, 250);
+    font-family: sans-serif;
+}
+
+h1{
+    color: rgb(73, 73, 73);
+    text-align: center;
+}
+
+li.Enunciado {
+    font-size: 200%;
+    font-family:"just another hand",cursive;
+    border: rgb(208, 145, 250) 3px double;
+    margin-right: 93%;
+    margin-top: 1%;
+    margin-bottom:0.5%;
+    text-align: center;
+}
+
+
+
+a {
+    color:rgb(137, 49, 252);
+}

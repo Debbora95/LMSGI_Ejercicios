@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: "indieflower";
+    src: url ("indieflower.woff2");
+
+}
+html {
+    background-color: hsl(272, 100%, 84%);
+}
+
+h1 {
+color: black;
+background-color: #FFEFD5;
+font-family: "indieflower", cursive;
+}
+h2 {
+color: black;
+background-color: white;
+}
